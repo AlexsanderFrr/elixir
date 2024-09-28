@@ -4,6 +4,10 @@
 /android
 /ios
 
+
+# Ignorar apenas o arquivo src/config/constantes.js
+src/config/constantes.js
+
 # Xcode
 #
 build/
